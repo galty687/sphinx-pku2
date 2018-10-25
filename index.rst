@@ -17,6 +17,7 @@ Welcome to projector user manual's documentation!
    :caption: 第二章：连接投影仪
 
    2-howto/install.rst
+   2-howto/hello.md
 
 
 
